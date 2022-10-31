@@ -29,7 +29,7 @@ Follow the steps below to setup accounts for the sources and get the credentials
 git clone https://github.com/Lucy-Family-Institute/image-search.git
 ```
 
-2. Go to the working directory:
+2. Change directory to image-search:
 ```
 cd image-search
 ```
