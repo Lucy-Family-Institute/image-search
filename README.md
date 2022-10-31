@@ -45,10 +45,10 @@ git checkout updated-image-search
 pip install -r requirements.txt
 ```
 5. Run the python script:
--Requires three arguments as shown in the example below:
-  -list of keywords: '['data-mapping', 'data-pipeline']'
-  -path: 'images' # Creates a folder named images in the working directory
-  -no_of_images: 50 # Total images to search for(about 50 to download atleast 20-25 common images)
+- Requires three arguments as shown in the example below:
+  - list of keywords: '['data-mapping', 'data-pipeline']'
+  - path: 'images' # Creates a folder named images in the working directory
+  - no_of_images: 50 # Total images to search for(about 50 to download atleast 20-25 common images)
 
 ```
 python image-search.py '['data-mapping', 'data-pipeline']' 'images' 50
