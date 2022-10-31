@@ -10,7 +10,7 @@ Follow the steps below to setup accounts for the sources and get the credentials
 - Visit https://console.developers.google.com/apis/credentials and generate API key credentials for your project.<br>
 - Visit https://cse.google.com/cse/all and in the web form where you create/edit your custom search engine enable "Image search" option and for "Sites to search" option select "Search the entire web but emphasize included sites".<br><br>
 
-  After setting up your Google developers account and project you should have been provided with developers API key and project CX. Set thoe keys as environment variables: GCS_DEVELOPER_KEY, GCS_CX or add the to the python code in the google_image_search function.
+  After setting up your Google developers account and project you should have been provided with developers API key and project CX. Set thoe keys as environment variables: GCS_DEVELOPER_KEY, GCS_CX or update them to the python script in the google_image_search function.
 
 2. SERP API
 
